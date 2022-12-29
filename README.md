@@ -1,4 +1,4 @@
-# CS280p2
+# CS280p2 Peer and Tracker package transfer
 
 # This project consists of two files; tracker.py and peer.py. This code was designed by Caleb Sacks, Ezekiel Palmer, Grant Meyer, and Jonathan Hoff for CSCI 280
 # at Clark University as a part of our Programming Assignment 2. The python files in this repository are my own personal copies of the original code we worked on.
